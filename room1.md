@@ -2,12 +2,12 @@
 i. Interest of content
 ========================
 
-Good: Interesting topic, not much original content
+**Good**: Interesting topic, not much original content
 
 ii. Consistency and quality of visual presentation
 ==================================================
 
-Excellent: Nice colours
+**Excellent**: Nice colours
 
 Readable
 
@@ -16,17 +16,17 @@ Consistent theme
 iii. Quality of written presentation
 ====================================
 
-Acceptable: Copied from wikipedia, one page unfinished
+**Acceptable**: Copied from wikipedia, one page unfinished
 
 iv. Validity of HTML
 ====================
 
-Outstanding: few errors
+**Outstanding**: few errors
 
 v. Evidence of collaboration
 ============================
 
-Sound:
+**Sound**: Seems one-sided
 
 Author info not written by author
 ---------------------------------
